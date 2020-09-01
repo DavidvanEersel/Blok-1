@@ -12,7 +12,6 @@ public class afvink3 {
         JPanel panel = new JPanel();
         panel.setLayout(new FlowLayout());
         JLabel label = new JLabel("Vul hier onder wat in:", SwingConstants.CENTER);
-
         JTextField textfield = new JTextField();
         textfield.setBounds(50,150,200,30);
         panel.add(label);
