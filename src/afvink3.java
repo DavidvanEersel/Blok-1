@@ -14,7 +14,7 @@ public class afvink3 {
         JLabel label = new JLabel("Vul hier onder wat in:", SwingConstants.CENTER);
         JTextField textfield = new JTextField();
         textfield.setBounds(50,150,200,30);
-        panel.add(label);
+        frame.add(label);
         frame.add(panel);
         frame.add(textfield);
         frame.add(label);
